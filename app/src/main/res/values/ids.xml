@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="AC" type="id" />
+    <item name="SIN" type="id" />
+    <item name="COS" type="id" />
+    <item name="TAN" type="id" />
+    <item name="ANS" type="id" />
+    <item name="DEL" type="id" />
+    <item name="plus" type="id" />
+</resources>
